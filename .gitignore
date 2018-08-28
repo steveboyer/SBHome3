@@ -1,0 +1,27 @@
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/build/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/.DS_Store
+.idea/compiler.xml .idea/encodings.xml .idea/misc.xml .idea/sbhome3.iml .idea/workspace.xml
+target/classes target/etc target/generated-sources target/generated-test-sources target/maven-archiver target/maven-status target/node target/sbhome3-0.0.1-SNAPSHOT.jar target/sbhome3-0.0.1-SNAPSHOT.jar.original target/surefire-reports target/test-classes
